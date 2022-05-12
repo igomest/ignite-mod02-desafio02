@@ -2,8 +2,6 @@
 
 # Ignite Módulo 02 - Desafio 02
 
-### ==>  [Demo](https://bright-farmser.surge.sh/)
-
 
 ### Caracteristicas
   - React
